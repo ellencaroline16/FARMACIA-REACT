@@ -15,7 +15,7 @@ function Home() {
                 <div className="flex justify-center">
 
                 <div className="flex justify-center items-center">
-              <img src={homeLogo} alt="" className='w-full' />
+              <img src={homeLogo} alt="" className='left-align' />
 
 
                 </div>
