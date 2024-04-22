@@ -3,7 +3,7 @@ import homeLogo from '../../assets/home.png'
 function Home() {
     return (
         <>
-            <div className="w-full h-screen flex flex-col justify-start items-center mb-auto" style={{ paddingTop: '70px' }}>
+            <div className="absolute top-0 right-0 left-0" style={{ paddingTop: '70px' }}>
 
                 <div className="flex flex-col gap-4 items-center justify-center py-4">
                     <h2 className='text-9xl font-bold'>Seja bem vinde!</h2>

@@ -1,4 +1,4 @@
-import Tema from './Categoria';
+import Categoria from './Categoria';
 
 
 export default interface Produto {
