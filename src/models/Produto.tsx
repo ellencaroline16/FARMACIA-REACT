@@ -1,0 +1,10 @@
+import Tema from './Categoria';
+
+
+export default interface Produto {
+  id: number;
+  nome: string;
+  descricao: string;
+  data: string;
+  preco: number;
+}
